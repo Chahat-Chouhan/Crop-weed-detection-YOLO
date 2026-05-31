@@ -1,0 +1,16 @@
+# 1. Define the absolute or relative paths to our clean dataset splits
+path: ./dataset  # The main root folder we created
+train: train/images
+val: val/images
+test: test/images
+
+# 2. Define the number of classes (categories) we want to detect
+nc: 2  # 1 for crop, 1 for weed
+
+# 3. Define the exact names of the classes matching your 'classes.txt'
+names:
+  0: crop
+  1: weed
+
+
+
