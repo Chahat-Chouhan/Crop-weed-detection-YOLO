@@ -1,18 +1,18 @@
 # Crop-weed-detection
 
-# 🌾 AI-Powered Smart Crop & Weed Management System
+# AI-Powered Smart Crop & Weed Management System
 
 An end-to-end Machine Learning and Data Engineering pipeline designed for precision agriculture. This system utilizes a custom-trained **YOLOv8** Object Detection model to scan field images, automatically distinguish between commercial crops and invasive weeds, and calculate localized infestation densities to drive autonomous localized spraying decisions.
 
 ---
 
-## 🚀 Live Deployment
+##  Live Deployment
 🔗 **Interactive Web Application:** [Deploying Live on Streamlit](https://crop-weed-detection-yolo-67bfxmgrtxwqhg67qufwna.streamlit.app/)  
 🔗 **Source Code Repository:** [GitHub Repository](https://github.com/Chahat-Chouhan/crop_weed_project)
 
 ---
 
-## 📊 Core Architectural Pillars
+##  Core Architectural Pillars
 
 The project is structured as a complete MLOps pipeline divided into four distinct phases:
 
