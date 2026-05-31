@@ -1,0 +1,8 @@
+# Ignore the data folders entirely
+data/
+dataset/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+.DS_Store
